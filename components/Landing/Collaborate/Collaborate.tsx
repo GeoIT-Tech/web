@@ -14,7 +14,7 @@ export function Collaborate() {
 					alt="Collaborate Icon"
 					className="self-center lg:self-start"
 				/>
-				<h1 className="text-5xl">Let's Collaborate</h1>
+				<h1 className="text-5xl">Let&apos;s Collaborate</h1>
 				<p className="text-gray-text-secondary text-xl">
 					Lorem Ipsum is simply dummy text of the printing .
 				</p>

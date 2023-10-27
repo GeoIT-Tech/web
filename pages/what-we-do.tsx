@@ -14,7 +14,7 @@ export default function WhatWeDo() {
 				<title>What We Do - MeNeM</title>
 				<meta
 					name="description"
-					content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's"
+					content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s"
 				/>
 			</Head>
 			<main className="h-screen">

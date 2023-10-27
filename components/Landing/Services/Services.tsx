@@ -22,7 +22,7 @@ export function Services() {
 				</h2>
 				<p className="text-gray-light text-lg">
 					Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-					Ipsum has been the industry's
+					Ipsum has been the industry&apos;s
 				</p>
 			</div>
 			<div className="relative bg-white mx-10 lg:mx-28 p-20 grid grid-cols-1 md:grid-cols-2 gap-16 drop-shadow-2xl rounded-xl">
@@ -71,7 +71,7 @@ export function Services() {
 						alt="Mobile Applications Icon"
 					/>
 					<div className="flex flex-col justify-center gap-2">
-						<h3 className="font-medium text-2xl">AR/VR Solutions</h3>
+						<h3 className="font-medium text-2xl">AR&VR Solutions</h3>
 						<p className="text-gray-light-secondary">
 							Advanced autonomous technologies to make life simple
 						</p>

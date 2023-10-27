@@ -19,7 +19,7 @@ export function BecomeAPartner() {
 					<p className="text-gray-text">
 						Used and supported in over 178 countries around the globe.
 						<br />
-						We'll work with you to open more doors and close more sales across all
+						We will work with you to open more doors and close more sales across all
 						verticals.
 					</p>
 				</div>

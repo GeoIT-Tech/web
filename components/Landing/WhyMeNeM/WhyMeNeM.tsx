@@ -15,7 +15,7 @@ export function WhyMeNeM() {
 				</h3>
 				<p className="text-lg text-light-gray">
 					Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-					Ipsum has been the industry's
+					Ipsum has been the industry&apos;s
 				</p>
 				<Image
 					src={whyMenemTriangles}
